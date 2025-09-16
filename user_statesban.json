@@ -1,0 +1,16 @@
+{
+  "7353202638": {
+    "active": false,
+    "daily": {
+      "2025-09-16": {
+        "success": 2200,
+        "fail": 0
+      }
+    },
+    "total": {
+      "success": 2200,
+      "fail": 0
+    },
+    "last_active": 1758054280.793718
+  }
+}
