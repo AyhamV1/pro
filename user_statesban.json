@@ -9,30 +9,34 @@
       "2025-09-18": {
         "success": 200,
         "fail": 0
+      },
+      "2025-09-19": {
+        "success": 3000,
+        "fail": 0
       }
     },
     "total": {
-      "success": 2400,
+      "success": 5400,
       "fail": 0
     },
-    "last_active": 1758228309.8471339
+    "last_active": 1758302068.215418
   },
   "579950128": {
-    "active": true,
+    "active": false,
     "daily": {
       "2025-09-18": {
         "success": 600,
         "fail": 0
       },
       "2025-09-19": {
-        "success": 1500,
+        "success": 1750,
         "fail": 0
       }
     },
     "total": {
-      "success": 2100,
+      "success": 2350,
       "fail": 0
     },
-    "last_active": 1758257251.915362
+    "last_active": 1758297592.445965
   }
 }
