@@ -13,13 +13,17 @@
       "2025-09-19": {
         "success": 3000,
         "fail": 0
+      },
+      "2025-09-20": {
+        "success": 2000,
+        "fail": 0
       }
     },
     "total": {
-      "success": 5400,
+      "success": 7400,
       "fail": 0
     },
-    "last_active": 1758302068.215418
+    "last_active": 1758365044.6017354
   },
   "579950128": {
     "active": false,
@@ -42,5 +46,45 @@
       "fail": 0
     },
     "last_active": 1758347504.2950017
+  },
+  "7112068410": {
+    "active": true,
+    "daily": {
+      "2025-09-20": {
+        "success": 2000,
+        "fail": 0
+      }
+    },
+    "total": {
+      "success": 2000,
+      "fail": 0
+    },
+    "last_active": 1758367248.6545267,
+    "progress": {
+      "current": 2,
+      "total": 4,
+      "success": 2000,
+      "fail": 0
+    }
+  },
+  "7664712501": {
+    "active": true,
+    "daily": {
+      "2025-09-20": {
+        "success": 4000,
+        "fail": 4000
+      }
+    },
+    "total": {
+      "success": 4000,
+      "fail": 4000
+    },
+    "last_active": 1758372783.406284,
+    "progress": {
+      "current": 1,
+      "total": 4,
+      "success": 1000,
+      "fail": 0
+    }
   }
 }
