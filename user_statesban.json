@@ -68,24 +68,22 @@
     }
   },
   "7664712501": {
-    "active": true,
+    "active": false,
     "daily": {
       "2025-09-20": {
         "success": 4000,
         "fail": 4000
+      },
+      "2025-09-22": {
+        "success": 1000,
+        "fail": 0
       }
     },
     "total": {
-      "success": 4000,
+      "success": 5000,
       "fail": 4000
     },
-    "last_active": 1758372783.406284,
-    "progress": {
-      "current": 1,
-      "total": 4,
-      "success": 1000,
-      "fail": 0
-    }
+    "last_active": 1758563698.4346747
   },
   "8407458928": {
     "active": false,
