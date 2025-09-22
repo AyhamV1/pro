@@ -86,5 +86,19 @@
       "success": 1000,
       "fail": 0
     }
+  },
+  "8407458928": {
+    "active": false,
+    "daily": {
+      "2025-09-22": {
+        "success": 1050,
+        "fail": 0
+      }
+    },
+    "total": {
+      "success": 1050,
+      "fail": 0
+    },
+    "last_active": 1758547653.1144311
   }
 }
