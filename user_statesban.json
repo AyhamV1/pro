@@ -77,13 +77,17 @@
       "2025-09-22": {
         "success": 1000,
         "fail": 0
+      },
+      "2025-09-23": {
+        "success": 4000,
+        "fail": 0
       }
     },
     "total": {
-      "success": 5000,
+      "success": 9000,
       "fail": 4000
     },
-    "last_active": 1758563698.4346747
+    "last_active": 1758624202.668781
   },
   "8407458928": {
     "active": false,
